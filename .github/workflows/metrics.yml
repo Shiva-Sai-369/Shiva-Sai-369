@@ -31,24 +31,3 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_recent_load: 400
           plugin_languages_recent_days: 14
-
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.habits.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
-          plugin_habits: yes
-          plugin_habits_charts: yes
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
-          config_timezone: Asia/Kolkata
-
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.topics.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
-          plugin_topics: yes
-          plugin_topics_mode: icons
-          plugin_topics_limit: 0

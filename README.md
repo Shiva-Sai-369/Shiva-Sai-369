@@ -91,10 +91,22 @@ Passionate **Computer Science Student** focused on building efficient solutions 
 
 </div>
 
+<div align="center">
+
+<h2 style="color: #58A6FF;">📅 Contributions calendar</h2>
+
+<img src="https://github.com/Shiva-Sai-369/Shiva-Sai-369/blob/main/metrics.plugin.isocalendar.svg" alt="Isometric Graph" width="90%"/>
+
+<h2 style="color: #58A6FF;">💬 Languages</h2>
+
+<img src="https://github.com/Shiva-Sai-369/Shiva-Sai-369/blob/main/metrics.plugin.languages.svg" alt="Languages" width="60%"/>
+
+</div>
+
 <h2 style="color: #58A6FF;">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Shiva-Sai-369&theme=default&hide_border=false&background=ffffff&stroke=4A90E2&ring=4A90E2&fire=4A90E2&currStreakLabel=24292e&border=e1e4e8" alt="GitHub Streak" width="60%" />
+  <img src="https://streak-stats.demolab.com/?user=Shiva-Sai-369&theme=dark&hide_border=false&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&sideLabels=ffffff&dates=8b949e" alt="GitHub Streak" width="60%" />
 </div>
 
 <h2 style="color: #58A6FF;">🚀 Featured Projects</h2>
@@ -144,26 +156,6 @@ Passionate **Computer Science Student** focused on building efficient solutions 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ShivaSai369&theme=default&hide_border=false&layout=compact&bg_color=ffffff&title_color=4A90E2&text_color=24292e" alt="WakaTime Stats"/>
-
-</div>
-
-<div align="center">
-
-<h2 style="color: #58A6FF;">📅 Contributions calendar</h2>
-
-<img src="https://github.com/Shiva-Sai-369/Shiva-Sai-369/blob/main/metrics.plugin.isocalendar.svg" alt="Isometric Graph" width="90%"/>
-
-<h2 style="color: #58A6FF;">💬 23 Languages</h2>
-
-<img src="https://github.com/Shiva-Sai-369/Shiva-Sai-369/blob/main/metrics.plugin.languages.svg" alt="Languages" width="90%"/>
-
-<h2 style="color: #58A6FF;">📊 Commits streaks</h2>
-
-<img src="https://github.com/Shiva-Sai-369/Shiva-Sai-369/blob/main/metrics.plugin.habits.svg" alt="Commit Habits" width="90%"/>
-
-<h2 style="color: #58A6FF;">🔖 Suggested tracks</h2>
-
-<img src="https://github.com/Shiva-Sai-369/Shiva-Sai-369/blob/main/metrics.plugin.topics.svg" alt="Suggested Topics" width="90%"/>
 
 </div>
 

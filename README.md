@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/uef.gif" width="100%" alt="Header GIF"/>
+  <img src="./assets/uef.gif" width="100%" height="200" style="object-fit: cover; object-position: top;" alt="Header GIF"/>
 </p>
 
 <p align="center">
@@ -202,5 +202,5 @@ _"Learning logic, one bug at a time."_
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:27496d,50:264778,100:243694&height=120&section=footer&reverseTextColor=true"/>
+  <img src="./assets/uef.gif" width="100%" height="200" style="object-fit: cover; object-position: bottom;" alt="Footer GIF"/>
 </p>

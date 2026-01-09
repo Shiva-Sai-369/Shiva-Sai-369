@@ -94,12 +94,7 @@ Passionate **Computer Science Student** focused on building efficient solutions 
 <h2 style="color: #58A6FF;">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shiva-Sai-369&show_icons=true&theme=default&hide_border=false&bg_color=ffffff&title_color=4A90E2&icon_color=4A90E2&text_color=24292e&border_color=e1e4e8&cache_seconds=86400" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=Shiva-Sai-369&theme=default&hide_border=false&background=ffffff&stroke=4A90E2&ring=4A90E2&fire=4A90E2&currStreakLabel=24292e&border=e1e4e8" alt="GitHub Streak" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiva-Sai-369&layout=compact&theme=default&hide_border=false&bg_color=ffffff&title_color=4A90E2&text_color=24292e&border_color=e1e4e8&cache_seconds=86400" alt="Top Languages" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Shiva-Sai-369&theme=default&hide_border=false&background=ffffff&stroke=4A90E2&ring=4A90E2&fire=4A90E2&currStreakLabel=24292e&border=e1e4e8" alt="GitHub Streak" width="60%" />
 </div>
 
 <h2 style="color: #58A6FF;">🚀 Featured Projects</h2>

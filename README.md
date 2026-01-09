@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5&height=180&section=header&text=Shiva%20Sai&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+  <img src="./assets/uef.gif" width="100%" alt="Header GIF"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:243694,50:264778,100:27496d&height=150&section=header&text=Shiva%20Sai&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=55&desc=Software%20Developer&descAlignY=75&descAlign=50" width="100%"/>
 </p>
 
 <div align="center">
@@ -152,17 +156,6 @@ Passionate **Computer Science Student** focused on building efficient solutions 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## Contribution Calendar
-
-<div align="center">
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 <div align="center">
 
 ## Contribution Calendar
@@ -178,6 +171,12 @@ Passionate **Computer Science Student** focused on building efficient solutions 
 <div align="center">
 
 **The Weeknd** • **Travis Scott** • **Kendrick Lamar** • **Frank Ocean** • **Tame Impala**
+
+<br><br>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=epoytqj50483fmuhuj5tpwn4h&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=epoytqj50483fmuhuj5tpwn4h&redirect=true)
+
+<br>
 
 _"Code better with good music"_
 
@@ -203,5 +202,5 @@ _"Learning logic, one bug at a time."_
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5&height=120&section=footer&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:27496d,50:264778,100:243694&height=120&section=footer&reverseTextColor=true"/>
 </p>

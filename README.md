@@ -36,7 +36,6 @@ Passionate **Computer Science Student** focused on building efficient solutions 
 - 🎓 Computer Science & Engineering undergraduate, 2nd Year
 - 💻 Strong focus on **Data Structures & Algorithms (DSA)** and logic building
 - 🚀 Interests: Problem-solving, Core Software Development, & UI Design
-- 🎮 Hobbies: Story games (Expedition 33, Ghost of Tsushima, Elden Ring) & Music
 - 🏆 **Finalist** at HACK4SDG (IIT Hyderabad)
 - 📚 Constantly learning through projects, contests, and experimentation
 - 🌟 Vision: Contribute to open-source & build impactful projects

@@ -112,7 +112,7 @@ Passionate **Computer Science Student** focused on building efficient solutions 
 <details open>
 <summary><h3>Edualert (EduSync)</h3></summary>
 
-<img src="./assets/edusync-landing.png" alt="EduSync Landing Page" width="100%"/>
+<img src="./assets/image-1767937406222.png" alt="EduSync Landing Page" width="100%"/>
 
 > AI-Powered Campus Management System
 
@@ -128,7 +128,7 @@ Passionate **Computer Science Student** focused on building efficient solutions 
 <details open>
 <summary><h3>Raspiflix</h3></summary>
 
-<img src="./assets/raspiflix-landing.png" alt="Raspiflix Landing Page" width="100%"/>
+<img src="./assets/image-1767937522249.png" alt="Raspiflix Landing Page" width="100%"/>
 
 > Netflix-style media streaming platform for Raspberry Pi
 
@@ -152,7 +152,7 @@ Passionate **Computer Science Student** focused on building efficient solutions 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## Recent Activity
+## Contribution Calendar
 
 <div align="center">
 
@@ -167,7 +167,7 @@ Passionate **Computer Science Student** focused on building efficient solutions 
 
 ## Contribution Calendar
 
-<img src="https://github.com/Shiva-Sai-369/Shiva-Sai-369/blob/main/metrics.plugin.isocalendar.svg" alt="Isometric Graph" />
+<img src="https://github.com/Shiva-Sai-369/Shiva-Sai-369/blob/main/metrics.plugin.isocalendar.svg" alt="Isometric Graph" width="90%"/>
 
 </div>
 

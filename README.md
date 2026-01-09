@@ -143,7 +143,7 @@ Passionate **Computer Science Student** focused on building efficient solutions 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shiva-Sai-369&theme=default&hide_border=false&layout=compact&bg_color=ffffff&title_color=4A90E2&text_color=24292e" alt="WakaTime Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ShivaSai369&theme=default&hide_border=false&layout=compact&bg_color=ffffff&title_color=4A90E2&text_color=24292e" alt="WakaTime Stats"/>
 
 </div>
 
@@ -183,3 +183,7 @@ Passionate **Computer Science Student** focused on building efficient solutions 
 _"Learning logic, one bug at a time."_
 
 </div>
+
+<p align="center">
+  <img src="./assets/footer.gif" width="100%" alt="Footer GIF"/>
+</p>

@@ -24,20 +24,19 @@
 
 ---
 
-## 🌟 About Me
+## About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 Passionate **Computer Science Student** focused on building efficient solutions and mastering algorithms.
 
-- � **About**: Computer Science & Engineering undergraduate
-- 🔭 **Currently**: Pursuing 2nd Year CSE & enhancing logic building skills
-- 🧠 **Focus**: Strong focus on **Data Structures & Algorithms (DSA)**
-- 💻 **Interests**: Problem-solving, Core Software Development, & UI
-- 🎮 **Hobbies**: Story games (Expedition 33, Ghost of Tsushima, Elden Ring) & Music
-- 🏆 **Achievements**: Finalist at **HACK4SDG** (IIT Hyderabad)
-- 📈 **Growth**: Constantly learning through projects, contests, and experimentation
-- 🚀 **Vision**: Contribute to open-source & build impactful projects
+- Computer Science & Engineering undergraduate, 2nd Year
+- Strong focus on **Data Structures & Algorithms (DSA)** and logic building
+- Interests: Problem-solving, Core Software Development, & UI Design
+- Hobbies: Story games (Expedition 33, Ghost of Tsushima, Elden Ring) & Music
+- **Finalist** at HACK4SDG (IIT Hyderabad)
+- Constantly learning through projects, contests, and experimentation
+- Vision: Contribute to open-source & build impactful projects
 
 <br clear="right"/>
 
@@ -45,27 +44,37 @@ Passionate **Computer Science Student** focused on building efficient solutions 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 
 <div align="center">
 
-### 💻 Programming Languages
+### Programming Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-### 🌐 Web Development
+### Web Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-### 🗄️ Databases & Tools
+### Design & Content
+
+![Graphic Design](https://img.shields.io/badge/Graphic_Design-FF61F6?style=for-the-badge&logo=adobe&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-47A248?style=for-the-badge&logo=google&logoColor=white)
+![Content Writing](https://img.shields.io/badge/Content_Writing-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)
+
+### Databases & Tools
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -73,76 +82,82 @@ Passionate **Computer Science Student** focused on building efficient solutions 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🏆 Featured Projects
+## Competitive Programming
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Sh1vz/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/shivs2006)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/sh1va)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## Featured Projects
 
 <details open>
-<summary><h3>🤖 Clari-Ai-Meeting_Assistant</h3></summary>
+<summary><h3>Clari AI Meeting Assistant</h3></summary>
 
 > AI-powered meeting assistant and organizer
 
-**🛠️ Stack**: TypeScript, AI Integration  
-**✨ Features**: Automated meeting summaries, action item extraction  
-**🎯 Focus**: Productivity enhancement through AI
+**Stack**: TypeScript, AI Integration  
+**Features**: Automated meeting summaries, action item extraction  
+**Focus**: Productivity enhancement through AI
 
 [View Project →](https://github.com/Shiva-Sai-369/Clari-Ai-Meeting_Assistant)
 
 </details>
 
 <details open>
-<summary><h3>🎓 Edualert</h3></summary>
+<summary><h3>Edualert (EduSync)</h3></summary>
 
-> Educational alert and notification system
+<img src="./assets/edusync-landing.png" alt="EduSync Landing Page" width="100%"/>
 
-**🛠️ Stack**: TypeScript  
-**✨ Features**: Real-time alerts, student notification management  
-**🎯 Focus**: Improving communication in educational institutions
+> AI-Powered Campus Management System
+
+**Stack**: TypeScript  
+**Features**: Intelligent attendance tracking, optimized room allocation, collaborative community platform  
+**Achievement**: Google TechSprint 2025  
+**Focus**: Transform college experience with AI-powered solutions
 
 [View Project →](https://github.com/Shiva-Sai-369/Edualert)
 
 </details>
 
 <details open>
-<summary><h3>📺 Raspiflix</h3></summary>
+<summary><h3>Raspiflix</h3></summary>
 
-> Media streaming platform tailored for Raspberry Pi or similar environments
+<img src="./assets/raspiflix-landing.png" alt="Raspiflix Landing Page" width="100%"/>
 
-**🛠️ Stack**: JavaScript  
-**✨ Features**: Media playback, user-friendly interface  
-**🎯 Focus**: Embedded entertainment systems
+> Netflix-style media streaming platform for Raspberry Pi
+
+**Stack**: JavaScript, HTML, CSS  
+**Features**: Movie browsing, favorites management, responsive design, custom media player  
+**Focus**: Embedded entertainment systems with cinematic UI
 
 [View Project →](https://github.com/Shiva-Sai-369/Raspiflix)
 
 </details>
 
-<details open>
-<summary><h3>🎨 Front-End-Dev</h3></summary>
-
-> Collection of modern frontend designs and components
-
-**🛠️ Stack**: CSS, HTML  
-**✨ Features**: Responsive layouts, UI/UX experiments  
-**🎯 Focus**: Web design mastery
-
-[View Project →](https://github.com/Shiva-Sai-369/Front-End-Dev)
-
-</details>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 📊 GitHub Stats
+## Coding Habits
 
 <div align="center">
 
-<a href="https://github.com/Shiva-Sai-369">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shiva-Sai-369&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Shiva Sai's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiva-Sai-369&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shiva-Sai-369&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats"/>
 
-<br/>
+</div>
 
-<a href="https://github.com/Shiva-Sai-369">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shiva-Sai-369&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
-</a>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## Recent Activity
+
+<div align="center">
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 </div>
 
@@ -150,7 +165,7 @@ Passionate **Computer Science Student** focused on building efficient solutions 
 
 <div align="center">
 
-## 📅 Isometric Commit Graph
+## Contribution Calendar
 
 <img src="https://github.com/Shiva-Sai-369/Shiva-Sai-369/blob/main/metrics.plugin.isocalendar.svg" alt="Isometric Graph" />
 
@@ -158,7 +173,19 @@ Passionate **Computer Science Student** focused on building efficient solutions 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🤝 Connect With Me
+## Music
+
+<div align="center">
+
+**The Weeknd** • **Travis Scott** • **Kendrick Lamar** • **Frank Ocean** • **Tame Impala**
+
+_"Code better with good music"_
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## Connect
 
 <div align="center">
 

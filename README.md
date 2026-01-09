@@ -1,16 +1,24 @@
-<p align="center">
+<div align="center" style="position: relative;">
   <img src="./assets/header.gif" width="100%" alt="Header GIF"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:243694,50:264778,100:27496d&height=150&section=header&text=Shiva%20Sai&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=55&desc=Software%20Developer&descAlignY=75&descAlign=50" width="100%"/>
-</p>
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center;">
+    <h1 style="color: #fff; font-size: 48px; text-shadow: 2px 2px 4px rgba(0,0,0,0.8); margin: 0;">
+      Shiva Sai here 🔥 !
+    </h1>
+    <h2 style="color: #00d4ff; font-size: 32px; text-shadow: 2px 2px 4px rgba(0,0,0,0.8); margin-top: 10px;">
+      Namaste 🔥 I'm Shiva Sai
+    </h2>
+  </div>
+</div>
 
 <div align="center">
 
-<h1>
+<h3 style="color: #888;">Software Developer | CSE Student</h3>
+
+<br>
+
+<h2>
   <code>@Shiva-Sai-369</code>
-</h1>
+</h2>
 
 <p align="center">
   <a href="https://github.com/Shiva-Sai-369?tab=followers">
@@ -28,7 +36,7 @@
 
 ## About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 Passionate **Computer Science Student** focused on building efficient solutions and mastering algorithms.
 
@@ -92,6 +100,19 @@ Passionate **Computer Science Student** focused on building efficient solutions 
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/shivs2006)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/sh1va)
 
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shiva-Sai-369&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shiva-Sai-369&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e4a&currStreakLabel=c9d1d9" alt="GitHub Streak" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiva-Sai-369&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="48%" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -172,7 +193,7 @@ Passionate **Computer Science Student** focused on building efficient solutions 
 
 <br><br>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=epoytqj50483fmuhuj5tpwn4h&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=epoytqj50483fmuhuj5tpwn4h&redirect=true)
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=epoytqj50483fmuhuj5tpwn4h&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false)](https://open.spotify.com/user/epoytqj50483fmuhuj5tpwn4h)
 
 <br>
 

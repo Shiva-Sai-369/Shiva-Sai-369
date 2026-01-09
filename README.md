@@ -29,7 +29,7 @@
 
 ---
 
-## 👨‍💻 About Me
+<h2 style="color: #58A6FF;">👨‍💻 About Me</h2>
 
 Passionate **Computer Science Student** focused on building efficient solutions and mastering algorithms.
 
@@ -45,13 +45,11 @@ Passionate **Computer Science Student** focused on building efficient solutions 
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 🛠️ Tech Stack & Skills
+<h2 style="color: #58A6FF;">🛠️ Tech Stack & Skills</h2>
 
 <div align="center">
 
-### 💻 Programming Languages
+<h3 style="color: #58A6FF;">💻 Programming Languages</h3>
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -59,7 +57,7 @@ Passionate **Computer Science Student** focused on building efficient solutions 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-### 🌐 Web Development
+<h3 style="color: #58A6FF;">🌐 Web Development</h3>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -67,13 +65,13 @@ Passionate **Computer Science Student** focused on building efficient solutions 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-### 🎨 Design & Content
+<h3 style="color: #58A6FF;">🎨 Design & Content</h3>
 
 ![Graphic Design](https://img.shields.io/badge/Graphic_Design-FF61F6?style=for-the-badge&logo=adobe&logoColor=white)
 ![SEO](https://img.shields.io/badge/SEO-47A248?style=for-the-badge&logo=google&logoColor=white)
 ![Content Writing](https://img.shields.io/badge/Content_Writing-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)
 
-### 🗄️ Databases & Tools
+<h3 style="color: #58A6FF;">🗄️ Databases & Tools</h3>
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
@@ -83,9 +81,7 @@ Passionate **Computer Science Student** focused on building efficient solutions 
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 🏅 Competitive Programming
+<h2 style="color: #58A6FF;">🏅 Competitive Programming</h2>
 
 <div align="center">
 
@@ -95,9 +91,7 @@ Passionate **Computer Science Student** focused on building efficient solutions 
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 📊 GitHub Stats
+<h2 style="color: #58A6FF;">📊 GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shiva-Sai-369&show_icons=true&theme=default&hide_border=false&bg_color=ffffff&title_color=4A90E2&icon_color=4A90E2&text_color=24292e&border_color=e1e4e8&cache_seconds=86400" alt="GitHub Stats" width="48%" />
@@ -108,12 +102,10 @@ Passionate **Computer Science Student** focused on building efficient solutions 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiva-Sai-369&layout=compact&theme=default&hide_border=false&bg_color=ffffff&title_color=4A90E2&text_color=24292e&border_color=e1e4e8&cache_seconds=86400" alt="Top Languages" width="48%" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 🚀 Featured Projects
+<h2 style="color: #58A6FF;">🚀 Featured Projects</h2>
 
 <details open>
-<summary><h3>🤖 Clari AI Meeting Assistant</h3></summary>
+<summary><h3 style="color: #58A6FF;">🤖 Clari AI Meeting Assistant</h3></summary>
 
 > AI-powered meeting assistant and organizer
 
@@ -126,9 +118,7 @@ Passionate **Computer Science Student** focused on building efficient solutions 
 </details>
 
 <details open>
-<summary><h3>🎓 Edualert (EduSync)</h3></summary>
-
-<img src="./assets/image-1767937406222.png" alt="EduSync Landing Page" width="100%"/>
+<summary><h3 style="color: #58A6FF;">🎓 Edualert (EduSync)</h3></summary>
 
 > AI-Powered Campus Management System
 
@@ -142,9 +132,7 @@ Passionate **Computer Science Student** focused on building efficient solutions 
 </details>
 
 <details open>
-<summary><h3>🎬 Raspiflix</h3></summary>
-
-<img src="./assets/image-1767937522249.png" alt="Raspiflix Landing Page" width="100%"/>
+<summary><h3 style="color: #58A6FF;">🎬 Raspiflix</h3></summary>
 
 > Netflix-style media streaming platform for Raspberry Pi
 
@@ -156,9 +144,7 @@ Passionate **Computer Science Student** focused on building efficient solutions 
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## ⏰ Coding Habits
+<h2 style="color: #58A6FF;">⏰ Coding Habits</h2>
 
 <div align="center">
 
@@ -166,37 +152,27 @@ Passionate **Computer Science Student** focused on building efficient solutions 
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 <div align="center">
 
-## 📅 Contribution Calendar
+<h2 style="color: #58A6FF;">📅 Contributions calendar</h2>
 
 <img src="https://github.com/Shiva-Sai-369/Shiva-Sai-369/blob/main/metrics.plugin.isocalendar.svg" alt="Isometric Graph" width="90%"/>
 
-</div>
+<h2 style="color: #58A6FF;">💬 23 Languages</h2>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://github.com/Shiva-Sai-369/Shiva-Sai-369/blob/main/metrics.plugin.languages.svg" alt="Languages" width="90%"/>
 
-## 🎵 Music
+<h2 style="color: #58A6FF;">📊 Commits streaks</h2>
 
-<div align="center">
+<img src="https://github.com/Shiva-Sai-369/Shiva-Sai-369/blob/main/metrics.plugin.habits.svg" alt="Commit Habits" width="90%"/>
 
-**The Weeknd** • **Travis Scott** • **Kendrick Lamar** • **Frank Ocean** • **Tame Impala**
+<h2 style="color: #58A6FF;">🔖 Suggested tracks</h2>
 
-<br><br>
-
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=epoytqj50483fmuhuj5tpwn4h&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" alt="Spotify Now Playing" />
-
-<br>
-
-_"Code better with good music"_
+<img src="https://github.com/Shiva-Sai-369/Shiva-Sai-369/blob/main/metrics.plugin.topics.svg" alt="Suggested Topics" width="90%"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 🤝 Connect
+<h2 style="color: #58A6FF;">🤝 Connect</h2>
 
 <div align="center">
 
@@ -212,7 +188,3 @@ _"Code better with good music"_
 _"Learning logic, one bug at a time."_
 
 </div>
-
-<p align="center">
-  <img src="./assets/footer.gif" width="100%" alt="Footer GIF"/>
-</p>

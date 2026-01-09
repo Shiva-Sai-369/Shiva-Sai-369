@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/uef.gif" width="100%" height="200" style="object-fit: cover; object-position: top;" alt="Header GIF"/>
+  <img src="./assets/header.gif" width="100%" alt="Header GIF"/>
 </p>
 
 <p align="center">
@@ -8,11 +8,9 @@
 
 <div align="center">
 
-<!-- Typing SVG Animation -->
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=CSE+Student;DSA+Learner;Tech+Enthusiast;Logic+Builder)](https://git.io/typing-svg)
-
-<br/>
+<h1>
+  <code>@Shiva-Sai-369</code>
+</h1>
 
 <p align="center">
   <a href="https://github.com/Shiva-Sai-369?tab=followers">
@@ -202,5 +200,5 @@ _"Learning logic, one bug at a time."_
 </div>
 
 <p align="center">
-  <img src="./assets/uef.gif" width="100%" height="200" style="object-fit: cover; object-position: bottom;" alt="Footer GIF"/>
+  <img src="./assets/footer.gif" width="100%" alt="Footer GIF"/>
 </p>

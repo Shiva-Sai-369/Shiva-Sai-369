@@ -1,7 +1,7 @@
 <div align="center" style="position: relative;">
   <img src="./assets/header.gif" width="100%" alt="Header GIF"/>
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center;">
-    <h1 style="color: #fff; font-size: 48px; text-shadow: 2px 2px 4px rgba(0,0,0,0.8); margin: 0;">
+    <h1 style="color: #fff; font-size: 64px; font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; font-weight: 700; text-shadow: 3px 3px 6px rgba(0,0,0,0.9); margin: 0; letter-spacing: 2px;">
       Shiva Sai here!
     </h1>
     <h2 style="color: #00d4ff; font-size: 32px; text-shadow: 2px 2px 4px rgba(0,0,0,0.8); margin-top: 10px;">
@@ -29,7 +29,7 @@
 
 ---
 
-<h2 style="color: #58A6FF;">👨‍💻 About Me</h2>
+<h2 style="color: #58A6FF;">About Me</h2>
 
 Passionate **Computer Science Student** focused on building efficient solutions and mastering algorithms.
 
@@ -45,11 +45,11 @@ Passionate **Computer Science Student** focused on building efficient solutions 
 
 <br/>
 
-<h2 style="color: #58A6FF;">🛠️ Tech Stack & Skills</h2>
+<h2 style="color: #58A6FF;">Tech Stack & Skills</h2>
 
 <div align="center">
 
-<h3 style="color: #58A6FF;">💻 Programming Languages</h3>
+<h3 style="color: #58A6FF;">Programming Languages</h3>
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -57,7 +57,7 @@ Passionate **Computer Science Student** focused on building efficient solutions 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-<h3 style="color: #58A6FF;">🌐 Web Development</h3>
+<h3 style="color: #58A6FF;">Web Development</h3>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -65,13 +65,13 @@ Passionate **Computer Science Student** focused on building efficient solutions 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-<h3 style="color: #58A6FF;">🎨 Design & Content</h3>
+<h3 style="color: #58A6FF;">Design & Content</h3>
 
 ![Graphic Design](https://img.shields.io/badge/Graphic_Design-FF61F6?style=for-the-badge&logo=adobe&logoColor=white)
 ![SEO](https://img.shields.io/badge/SEO-47A248?style=for-the-badge&logo=google&logoColor=white)
 ![Content Writing](https://img.shields.io/badge/Content_Writing-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)
 
-<h3 style="color: #58A6FF;">🗄️ Databases & Tools</h3>
+<h3 style="color: #58A6FF;">Databases & Tools</h3>
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
@@ -81,7 +81,7 @@ Passionate **Computer Science Student** focused on building efficient solutions 
 
 </div>
 
-<h2 style="color: #58A6FF;">🏅 Competitive Programming</h2>
+<h2 style="color: #58A6FF;">Competitive Programming</h2>
 
 <div align="center">
 
@@ -93,26 +93,26 @@ Passionate **Computer Science Student** focused on building efficient solutions 
 
 <div align="center">
 
-<h2 style="color: #58A6FF;">📅 Contributions calendar</h2>
+<h2 style="color: #58A6FF;">Contributions calendar</h2>
 
 <img src="https://github.com/Shiva-Sai-369/Shiva-Sai-369/blob/main/metrics.plugin.isocalendar.svg" alt="Isometric Graph" width="90%"/>
 
-<h2 style="color: #58A6FF;">💬 Languages</h2>
+<h2 style="color: #58A6FF;">Languages</h2>
 
 <img src="https://github.com/Shiva-Sai-369/Shiva-Sai-369/blob/main/metrics.plugin.languages.svg" alt="Languages" width="60%"/>
 
 </div>
 
-<h2 style="color: #58A6FF;">📊 GitHub Stats</h2>
+<h2 style="color: #58A6FF;">GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Shiva-Sai-369&theme=dark&hide_border=false&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&sideLabels=ffffff&dates=8b949e" alt="GitHub Streak" width="60%" />
+  <img src="https://streak-stats.demolab.com?user=Shiva-Sai-369&theme=dark&hide_border=false&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&sideLabels=ffffff&dates=8b949e" alt="GitHub Streak" width="60%" />
 </div>
 
-<h2 style="color: #58A6FF;">🚀 Featured Projects</h2>
+<h2 style="color: #58A6FF;">Featured Projects</h2>
 
 <details open>
-<summary><h3 style="color: #58A6FF;">🤖 Clari AI Meeting Assistant</h3></summary>
+<summary><h3 style="color: #58A6FF;">Clari AI Meeting Assistant</h3></summary>
 
 > AI-powered meeting assistant and organizer
 
@@ -125,7 +125,7 @@ Passionate **Computer Science Student** focused on building efficient solutions 
 </details>
 
 <details open>
-<summary><h3 style="color: #58A6FF;">🎓 Edualert (EduSync)</h3></summary>
+<summary><h3 style="color: #58A6FF;">Edualert (EduSync)</h3></summary>
 
 > AI-Powered Campus Management System
 
@@ -139,7 +139,7 @@ Passionate **Computer Science Student** focused on building efficient solutions 
 </details>
 
 <details open>
-<summary><h3 style="color: #58A6FF;">🎬 Raspiflix</h3></summary>
+<summary><h3 style="color: #58A6FF;">Raspiflix</h3></summary>
 
 > Netflix-style media streaming platform for Raspberry Pi
 
@@ -151,7 +151,7 @@ Passionate **Computer Science Student** focused on building efficient solutions 
 
 </details>
 
-<h2 style="color: #58A6FF;">⏰ Coding Habits</h2>
+<h2 style="color: #58A6FF;">Coding Habits</h2>
 
 <div align="center">
 
@@ -159,7 +159,7 @@ Passionate **Computer Science Student** focused on building efficient solutions 
 
 </div>
 
-<h2 style="color: #58A6FF;">🤝 Connect</h2>
+<h2 style="color: #58A6FF;">Connect</h2>
 
 <div align="center">
 

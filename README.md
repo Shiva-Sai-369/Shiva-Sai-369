@@ -85,17 +85,13 @@ Passionate **Computer Science Student** focused on building efficient solutions 
 <div align="center">
 
 <a href="https://leetcode.com/u/Sh1vz/">
-  <img src="https://leetcard.jacoblin.cool/Sh1vz?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Stats" width="49%" />
+  <img src="https://leetcard.jacoblin.cool/Sh1vz?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Stats" style="width:49%; height:260px; object-fit:contain;" />
 </a>
 <a href="https://codeforces.com/profile/sh1va">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=sh1va&theme=github_dark&disable_animations=false&show_icons=true" alt="Codeforces Stats" width="49%" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=sh1va&theme=github_dark&disable_animations=false&show_icons=true" alt="Codeforces Stats" style="width:49%; height:260px; object-fit:contain;" />
 </a>
 
 <br/>
-
-<a href="https://www.codechef.com/users/shivs2006">
-  <img src="https://codechef-readme-stats.vercel.app/stats/shivs2006?theme=dark" alt="CodeChef Stats" width="49%" />
-</a>
 
 <br/>
 
@@ -131,12 +127,7 @@ Passionate **Computer Science Student** focused on building efficient solutions 
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Shiva-Sai-369&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shiva-Sai-369&theme=github_dark" alt="Top Languages by Commit" width="40%" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Shiva-Sai-369&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" width="90%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shiva-Sai-369&theme=github_dark" alt="Top Languages by Commit" width="50%" />
 
 </div>
 
@@ -181,16 +172,6 @@ Passionate **Computer Science Student** focused on building efficient solutions 
 [View Project →](https://github.com/Shiva-Sai-369/Raspiflix)
 
 </details>
-
-<h2 style="color: #58A6FF;">Coding Habits</h2>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ShivaSai369&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact&langs_count=6" alt="WakaTime Stats"/>
-
-[![wakatime](https://wakatime.com/badge/user/ShivaSai369.svg)](https://wakatime.com/@ShivaSai369)
-
-</div>
 
 <h2 style="color: #58A6FF;">Connect</h2>
 

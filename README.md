@@ -87,8 +87,8 @@ Passionate **Computer Science Student** focused on building efficient solutions 
 <a href="https://leetcode.com/u/Sh1vz/">
   <img src="https://leetcard.jacoblin.cool/Sh1vz?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Stats" style="width:49%; height:260px; object-fit:contain;" />
 </a>
-<a href="https://codeforces.com/profile/sh1va">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=sh1va&theme=github_dark&disable_animations=false&show_icons=true" alt="Codeforces Stats" style="width:49%; height:260px; object-fit:contain;" />
+<a href="https://codeforces.com/profile/sh1vz">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=sh1vz&theme=github_dark&disable_animations=false&show_icons=true" alt="Codeforces Stats" style="width:49%; height:260px; object-fit:contain;" />
 </a>
 
 <br/>
@@ -97,7 +97,7 @@ Passionate **Computer Science Student** focused on building efficient solutions 
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Sh1vz/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/shivs2006)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/sh1va)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/sh1vz)
 
 </div>
 

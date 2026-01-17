@@ -147,7 +147,7 @@ Passionate **Computer Science Student** focused on building efficient solutions 
 </details>
 
 <details open>
-<summary><h3 style="color: #58A6FF;">Edualert (EduSync)</h3></summary>
+<summary><h3 style="color: #58A6FF;">EduSync</h3></summary>
 
 > AI-Powered Campus Management System
 
@@ -156,7 +156,7 @@ Passionate **Computer Science Student** focused on building efficient solutions 
 **Achievement**: 🏆 Google TechSprint 2025  
 **Focus**: Transform college experience with AI-powered solutions
 
-[View Project →](https://github.com/Shiva-Sai-369/Edualert)
+[View Project →](https://github.com/Shiva-Sai-369/edusync)
 
 </details>
 

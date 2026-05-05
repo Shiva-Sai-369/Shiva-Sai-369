@@ -147,29 +147,28 @@ Passionate **Computer Science Student** focused on building efficient solutions 
 </details>
 
 <details open>
-<summary><h3 style="color: #58A6FF;">EduSync</h3></summary>
+<summary><h3 style="color: #58A6FF;">ramirez</h3></summary>
 
-> AI-Powered Campus Management System
+> Real-time multi-agent cybersecurity defense system
 
-**Stack**: TypeScript  
-**Features**: Intelligent attendance tracking, optimized room allocation, collaborative community platform  
-**Achievement**: 🏆 Google TechSprint 2025  
-**Focus**: Transform college experience with AI-powered solutions
+**Stack**: Python, Machine Learning, Scapy  
+**Features**: 10 monitoring agents detecting network attacks, port scans, kernel threats and anomalies  
+**Focus**: Network threat detection and anomaly analysis through distributed intelligent agents
 
-[View Project →](https://github.com/Shiva-Sai-369/edusync)
+[View Project →](https://github.com/Shiva-Sai-369/ramirez)
 
 </details>
 
 <details open>
-<summary><h3 style="color: #58A6FF;">Raspiflix</h3></summary>
+<summary><h3 style="color: #58A6FF;">Arcade Learn</h3></summary>
 
-> Netflix-style media streaming platform for Raspberry Pi
+> Gamified learning platform for tech career development
 
-**Stack**: JavaScript, HTML, CSS  
-**Features**: Movie browsing, favorites management, responsive design, custom media player  
-**Focus**: Embedded entertainment systems with cinematic UI
+**Stack**: React, TypeScript, Node.js, Supabase, Google Gemini  
+**Features**: 15+ career paths, XP system, badges, leaderboards, AI-powered recommendations, job board integration  
+**Focus**: Structured learning with gamification to bridge skills gap and employment opportunities
 
-[View Project →](https://github.com/Shiva-Sai-369/Raspiflix)
+[View Project →](https://github.com/Shiva-Sai-369/Arcade-Learn)
 
 </details>
 
